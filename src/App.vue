@@ -4,7 +4,11 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <DoSomething></DoSomething>
+<<<<<<< HEAD
     <h1>jesse</h1>
+=======
+    <p>other change</p>
+>>>>>>> origin/main
   </div>
 </template>
 
