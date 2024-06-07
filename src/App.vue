@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <div>jesse wang</div>
     <p>update on feature1</p>
+    <p>update on main</p>
   </div>
 </template>
 
